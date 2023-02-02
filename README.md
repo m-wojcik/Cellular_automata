@@ -1,5 +1,5 @@
 # Cellular_automata
-A Jupyter Notebook script for working with two dimensional, two state Cellular Automata (CA).
+A Jupyter Notebook script for working with one dimensional, two state Cellular Automata (CA).
 
 The available features are:
 - Simulating the behaviour of the CA with a given rule and initial state
